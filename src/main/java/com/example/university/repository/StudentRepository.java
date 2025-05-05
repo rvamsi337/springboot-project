@@ -1,12 +1,3 @@
-/*
- *
- * You can use the following import statements
- * 
- * import java.util.ArrayList;
- * 
- */
-
-// Write your code here
 package com.example.university.repository;
 import java.util.*;
 import com.example.university.model.Student;

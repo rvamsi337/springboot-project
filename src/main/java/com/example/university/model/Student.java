@@ -1,12 +1,3 @@
-/*
- *
- * You can use the following import statements
- * 
- * import javax.persistence.*;
- * 
- */
-
-// Write your code here
 package com.example.university.model;
 
 import javax.persistence.*;
